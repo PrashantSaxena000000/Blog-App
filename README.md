@@ -1,4 +1,11 @@
 
+#Description
+client and server side directries are different you can start the project in both directries by running "npm start" command
+in this application you can {create blog update ,delete ,blog},Login and registration page are creted.
+
+
+
+
 # home page
 ![bl1](https://user-images.githubusercontent.com/73046889/227756584-8a9da904-565a-4621-85ca-e554501a37a4.png)
 
